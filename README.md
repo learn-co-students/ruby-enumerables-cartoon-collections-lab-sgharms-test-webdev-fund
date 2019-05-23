@@ -5,7 +5,7 @@
 - Get familiar iterating through arrays with enumerator methods like
   `.collect` or `.map`, `.find`, and `.include?`.
 - Build methods and control their return values.
-- Practice control flow with `if` and `else` statements.
+- Practice control flow sfwith `if` and `else` statements.
 
 ## Instructions
 
